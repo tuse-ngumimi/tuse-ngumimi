@@ -14,11 +14,8 @@ Interests 💡
 
 Fun Fact 🤓
 
-I'm good at impressions (seriously, it's a hidden talent!), and I’m a huge nerd—whether it’s geeking out over sci-fi, comics, or deep-diving into random fascinating topics.
+I'm good at impressions (seriously, it's a hidden talent!), and I’m a huge nerd, whether it’s geeking out over sci-fi, comics, or deep-diving into random fascinating topics.
 I also love to take photos of people I meet and places I've been.
 
 Thanks for stopping by! 🚀
-<!---
-tuse-ngumimi/tuse-ngumimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
