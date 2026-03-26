@@ -1,21 +1,36 @@
-Hey there! 👋
+# Hi, I'm Ngumimi 👋
 
-About Me
+CS student | Aspiring Data Engineer | Python | MySQL  
+Building toward meaningful impact in healthcare data 🏥
 
-Hi! I'm Ngumimi, a tech enthusiast with a huge thing for art, women's health, and all things creative! Right now, I'm  diving deep into JavaScript, exploring how code can bring ideas to life and solve meaningful problems.
+---
 
-Interests 💡
+## 🔧 What I'm Working On
+- **Heart Disease Pipeline** — CSV validation and ETL pipeline using Python and MySQL
+- **First Aid CLI** — Offline-first command line assistant backed by a MySQL database
+  
+---
 
-🎨 Tech & Art – I love blending creativity with technology, whether it's through design or interactive web experiences.
+## 🛠 Skills
+**Languages:** Python, SQL, JavaScript  
+**Tools:** MySQL, Git, VS Code, Figma, DBeaver  
+**Concepts:** ETL Pipelines, Data Validation, Database Design, REST APIs
 
-💙  Health – I'm interested in how tech can improve health and overall well-being, especially through apps and new healthcare solutions.
+---
 
-💻 Coding & Learning – Right now, I'm focused on honing my JavaScript skills and expanding my knowledge of full-stack development.
+## 📚 Currently Learning
+- Data Engineering fundamentals (pipelines, data modelling, warehousing)
+- Machine Learning via Huawei certification course
+- Advanced SQL — window functions, CTEs, query optimisation
 
-Fun Fact 🤓
+---
 
-I'm good at impressions (seriously, it's a hidden talent!), and I’m a huge nerd, whether it’s geeking out over sci-fi, comics, or deep-diving into random fascinating topics.
-I also love to take photos of people I meet and places I've been.
+## 💼 Experience
+**NITDA Intern** — Python automation scripting and product design with Figma  
+National Information Technology Development Agency, Nigeria
 
-Thanks for stopping by! 🚀
+---
 
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-linkedin-url)
+[![X](https://img.shields.io/badge/X-black)](https://x.com/T_msenmimi)
